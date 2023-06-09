@@ -1,3 +1,43 @@
-body {
+body{
+  background-color: #C1E0F7;  
+}
+h1{
+  font-size: 300%;
+  color: white;
+  font-style: ;
+  text-shadow:3px 3px 6px #C59FC9;
+  letter-spacing: 4px;
+  text-decoration: ;
+}
+p{
+  font-size: 25px;
+}
+img{
+  width:1000px;
+  border-style: double;
+  border-color: #000000;
+  border-width: 8px;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color: black;
+  font-family: "Manaco", Monospace;
+  text-decoration: none;
+  border: dashed
+}
+li a:hover{
+  background-color: black;
+  color: white;
+}
+  
+  
 
 }
